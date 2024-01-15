@@ -1,4 +1,4 @@
-<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0elT97D_BwwWBBGbUOn2EG&ust=1705390305109000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCPDYuYzw3oMDFQAAAAAdAAAAABAW" alt="Coder GIF" width="420" height="330">
+<img align="right" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" alt="Coder GIF" width="420" height="330">
 
 
 
