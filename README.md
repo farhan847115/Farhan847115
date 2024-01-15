@@ -1,12 +1,12 @@
-<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
+<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0elT97D_BwwWBBGbUOn2EG&ust=1705390305109000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCPDYuYzw3oMDFQAAAAAdAAAAABAW" alt="Coder GIF" width="420" height="330">
 
 
 
-### Hi there, I am Prerak Raja 👋
-[![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/farhan121/)](https://www.linkedin.com/in/farhan121/)
-[![Gmail Badge](https://img.shields.io/badge/-rajaprerak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:azaji0118@gmail.com)](mailto:azaji0118@gmail.com) 
+### Hi there, I am Farhan Ahmad  👋
+[![Linkedin Badge](https://img.shields.io/badge/-farhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/farhan121/)](https://www.linkedin.com/in/farhan121/)
+[![Gmail Badge](https://img.shields.io/badge/-azaji0118@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:azaji0118@gmail.com)](mailto:azaji0118@gmail.com) 
 
-- 🎯 Portfolio website: [Portfolio](https://rajaprerak.github.io/)
+- 🎯 Portfolio website: [Portfolio](https://farhanu.netlify.app)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 💻 **Things I love/Interested**
@@ -44,19 +44,3 @@
     <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div>
 
-
-
-<!--
-**farhan847115/Farhan847115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
