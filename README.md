@@ -3,7 +3,7 @@
 
 
 
-### Hi there, I am Farhan Ahmad <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">  👋
+### Hi there, I am Farhan Ahmad👋 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">  
 [![Linkedin Badge](https://img.shields.io/badge/-farhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/farhan121/)](https://www.linkedin.com/in/farhan121/)
 [![Gmail Badge](https://img.shields.io/badge/-azaji0118@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:azaji0118@gmail.com)](mailto:azaji0118@gmail.com) 
 
