@@ -41,6 +41,14 @@
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+# GitHub Profile Views Counter
+
+![GitHub Profile Views Counter](https://user-images.githubusercontent.com/1849174/87816378-dfce8480-c86f-11ea-9ac0-2f7907e1d9d4.png)
+
+<p align="center">
+<a href="https://discord.gg/geJF43E"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
+<a href="https://github.com/Farhan847115/github-profile-views-counter/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Farhan847115/github-profile-views-counter.svg?style=flat-square" alt="License"></a>
+</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan847115&hide_progress=true)
 
