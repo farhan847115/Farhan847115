@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋, Welcome to my Github page!</h2>
 
-&nbsp;![](https://komarev.com/ghpvc/?username=ashishps1&color=brightgreen)
+&nbsp;![](https://komarev.com/ghpvc/?username=farhan847115&color=brightgreen)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhan847115&show_icons=true&locale=en" alt="farhan847115" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan847115&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
 </p>
